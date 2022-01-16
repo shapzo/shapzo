@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm shapzo</h1>
 <h3 align="center">I like programming and operating systems, as well as listening to music in my free time</h3>
 
+<a href="#"><img src="https://github.com/shapzo/Dotfiles_BSPwm/blob/main/Wallpapers/img_4.jpg?raw=true" height="100%" width="100%" /> </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rodrigopalma234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodrigopalma234" height="30" width="40" /></a>
